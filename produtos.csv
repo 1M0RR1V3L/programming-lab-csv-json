@@ -1,0 +1,16 @@
+produto,categoria,preco,estoque,data_de_validade
+Camiseta,Vestuário,70,150,2024-12-31
+Calça,Vestuário,120,100,2024-11-30
+Sapato,Calçados,150,80,2025-06-30
+Bolsa,Acessórios,250,60,2024-10-15
+Relógio,Acessórios,300,50,2025-01-31
+Jaqueta,Vestuário,200,40,2024-12-15
+Tênis,Calçados,180,120,2025-07-31
+Óculos,Acessórios,100,75,2024-09-30
+Cinto,Acessórios,50,200,2025-03-31
+Chapéu,Vestuário,80,90,2025-02-28
+Brinco,Acessórios,35,300,2024-11-15
+Carteira,Acessórios,120,50,2025-05-30
+Casaco,Vestuário,250,30,2024-12-01
+Meia,Vestuário,20,500,2025-06-15
+Mochila,Acessórios,150,45,2025-08-31
