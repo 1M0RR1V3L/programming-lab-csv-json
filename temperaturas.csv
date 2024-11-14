@@ -1,0 +1,19 @@
+data,cidade,temperatura
+2023-01-15,São Paulo,30.5
+2023-01-20,São Paulo,28.0
+2023-02-10,São Paulo,29.0
+2023-02-15,São Paulo,31.0
+2023-03-05,São Paulo,25.5
+2023-03-20,São Paulo,26.0
+2023-01-10,Rio de Janeiro,33.0
+2023-01-25,Rio de Janeiro,34.5
+2023-02-05,Rio de Janeiro,35.0
+2023-02-20,Rio de Janeiro,33.5
+2023-03-10,Rio de Janeiro,30.0
+2023-03-25,Rio de Janeiro,31.5
+2023-01-08,Belo Horizonte,27.0
+2023-01-22,Belo Horizonte,28.0
+2023-02-14,Belo Horizonte,29.5
+2023-02-28,Belo Horizonte,30.0
+2023-03-12,Belo Horizonte,25.0
+2023-03-29,Belo Horizonte,26.0

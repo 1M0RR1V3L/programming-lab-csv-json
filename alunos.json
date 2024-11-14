@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Ana Souza",
+        "nota": 8.5,
+        "turma": "A"
+    },
+    {
+        "nome": "Carlos Silva",
+        "nota": 6.0,
+        "turma": "B"
+    },
+    {
+        "nome": "Beatriz Almeida",
+        "nota": 7.5,
+        "turma": "A"
+    },
+    {
+        "nome": "Fernando Reis",
+        "nota": 4.0,
+        "turma": "C"
+    },
+    {
+        "nome": "Lucas Martins",
+        "nota": 3.5,
+        "turma": "B"
+    },
+    {
+        "nome": "Mariana Oliveira",
+        "nota": 9.0,
+        "turma": "A"
+    },
+    {
+        "nome": "Paulo Santos",
+        "nota": 4.5,
+        "turma": "C"
+    },
+    {
+        "nome": "Ricardo Pereira",
+        "nota": 7.0,
+        "turma": "B"
+    },
+    {
+        "nome": "Juliana Costa",
+        "nota": 8.0,
+        "turma": "C"
+    },
+    {
+        "nome": "Fábio Alves",
+        "nota": 4.8,
+        "turma": "A"
+    }
+]

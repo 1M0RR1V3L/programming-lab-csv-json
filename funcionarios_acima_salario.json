@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "Carlos Souza",
+        "cargo": "Gerente",
+        "departamento": "Financeiro",
+        "salario": 8500
+    },
+    {
+        "nome": "Beatriz Almeida",
+        "cargo": "Desenvolvedor",
+        "departamento": "TI",
+        "salario": 7000
+    },
+    {
+        "nome": "Fernando Reis",
+        "cargo": "Analista",
+        "departamento": "TI",
+        "salario": 5500
+    },
+    {
+        "nome": "Mariana Oliveira",
+        "cargo": "Analista",
+        "departamento": "Marketing",
+        "salario": 5200
+    },
+    {
+        "nome": "Paulo Santos",
+        "cargo": "Gerente",
+        "departamento": "Vendas",
+        "salario": 9000
+    },
+    {
+        "nome": "Fábio Alves",
+        "cargo": "Desenvolvedor",
+        "departamento": "TI",
+        "salario": 6500
+    }
+]

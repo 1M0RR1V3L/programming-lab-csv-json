@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "Carlos Silva",
+        "nota": 6.0,
+        "turma": "B"
+    },
+    {
+        "nome": "Ricardo Pereira",
+        "nota": 7.0,
+        "turma": "B"
+    }
+]

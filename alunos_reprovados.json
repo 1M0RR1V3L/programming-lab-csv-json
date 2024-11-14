@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Fernando Reis",
+        "nota": 4.0,
+        "turma": "C"
+    },
+    {
+        "nome": "Lucas Martins",
+        "nota": 3.5,
+        "turma": "B"
+    },
+    {
+        "nome": "Paulo Santos",
+        "nota": 4.5,
+        "turma": "C"
+    },
+    {
+        "nome": "Fábio Alves",
+        "nota": 4.8,
+        "turma": "A"
+    }
+]
